@@ -2,7 +2,7 @@
 ## Go to folder "build" and click file "OperatorMonoLig-Book.otf" for install font to system.
 
 
-# ORDER
+# OTHER
 ## Operator Mono Ligatures
 
   
